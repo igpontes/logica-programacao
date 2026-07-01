@@ -1,5 +1,7 @@
 #!/bin/bash
 
+python3 calculadora.py
+
 #Chamando programa da Calculadora
 
 #Início da Calculadora
