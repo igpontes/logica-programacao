@@ -3,7 +3,7 @@ Curso de Lógica de Programação em Python
 
 # Necesssário ter Ubuntu instalado
 
-Baixe o arquivo 'calculadora.sh'
+Baixe o arquivo 'calculadora.py' e 'calculadora.sh'
 
 Dê a permissão de execução: chmod 744 calculadora.sh
 
