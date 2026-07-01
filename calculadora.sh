@@ -1,6 +1,6 @@
 #!/bin/bash
 
-python3 calculadora.py
+python3 Calculadora.py
 
 #Chamando programa da Calculadora
 
